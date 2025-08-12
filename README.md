@@ -15,7 +15,7 @@
 4. Copia el código generado en tu proyecto ASM.
 
 ## Descarga
-[Descargar ejecutable](https://github.com/tuusuario/PIC-ASM-Delay-Generator/releases)
+[Descargar ejecutable](https://github.com/AdminMariano/PICDelayGenerator.exe/releases/tag/v1.0.0)
 
 ## Autor
 Mariano Rocha - Compartiendo conocimiento técnico con precisión y claridad.
