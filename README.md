@@ -21,4 +21,6 @@
 Mariano Rocha - Compartiendo conocimiento técnico con precisión y claridad.
 ## Mail
 mariano.rochac@pca.edu.co
+## Software
+![DELAYS](images/picdelay.png) 
 
